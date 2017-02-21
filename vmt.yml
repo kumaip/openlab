@@ -14,7 +14,7 @@
     vmtemplate: Debian8-x64-Template
     vmcluster: CLICHY
     notes: Created by Ansible
-    name: testvm
+    name: testvm2
     dumpfacts: False
   tasks:
     - name: Create VM from template
